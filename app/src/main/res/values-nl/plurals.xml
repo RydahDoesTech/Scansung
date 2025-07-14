@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="PLURAL_FOTA_AUTO_INSTALL_DEVICE">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Uw apparaat wordt over %d seconde opnieuw gestart om te beginnen met de installatie van de update.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Uw apparaat wordt over %d seconden opnieuw gestart om te beginnen met de installatie van de update.</item>
+    </plurals>
+    <plurals name="PLURAL_FOTA_AUTO_INSTALL_PHONE">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Uw telefoon wordt over %d seconde opnieuw gestart om te beginnen met de installatie van de update.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Uw telefoon wordt over %d seconden opnieuw gestart om te beginnen met de installatie van de update.</item>
+    </plurals>
+    <plurals name="PLURAL_FOTA_AUTO_INSTALL_TABLET">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Uw tablet wordt over %d seconde opnieuw gestart om te beginnen met de installatie van de update.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Uw tablet wordt over %d seconden opnieuw gestart om te beginnen met de installatie van de update.</item>
+    </plurals>
+    <plurals name="PLURAL_LIMITED_SCHEDULE">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Nadat je een installatietijd hebt ingesteld, kun je deze slechts %d keer wijzigen.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Nadat je een installatietijd hebt ingesteld, kun je deze slechts %d keer wijzigen.</item>
+    </plurals>
+    <plurals name="PLURAL_NOTIFICATION_REMIND_ME_IN_HOURS">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Herinner me over %d u</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Herinner me over %d u</item>
+    </plurals>
+    <plurals name="PLURAL_UPDATE_COUNT_DOWN_DEVICE_AB">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Om de update te voltooien wordt je apparaat over %d seconde automatisch opnieuw gestart.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Om de update te voltooien wordt je apparaat over %d seconden automatisch opnieuw gestart.</item>
+    </plurals>
+    <plurals name="PLURAL_UPDATE_COUNT_DOWN_PHONE_AB">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Om de update te voltooien wordt je telefoon over %d seconde automatisch opnieuw gestart.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Om de update te voltooien wordt je telefoon over %d seconden automatisch opnieuw gestart.</item>
+    </plurals>
+    <plurals name="PLURAL_UPDATE_COUNT_DOWN_TABLET_AB">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Om de update te voltooien wordt je tablet over %d seconde automatisch opnieuw gestart.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Om de update te voltooien wordt je tablet over %d seconden automatisch opnieuw gestart.</item>
+    </plurals>
+</resources>

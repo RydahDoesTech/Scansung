@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference
+        android:title="@string/WSS_RSR_STR_MENU_UT_Title"
+        android:key="UpdateUTSoftware"
+        android:summary="@string/WSS_RSR_STR_MENU_SWUpdateSummary"/>
+    <Preference
+        android:title="@string/WSS_RSR_STR_DM_UIC_Title"
+        android:key="showDeviceId"
+        android:summary="@string/WSS_RSR_STR_COMMON_None"/>
+    <Preference
+        android:title="Local Test"
+        android:key="localtest"
+        android:summary="Update a device without downloading from the server"/>
+</PreferenceScreen>

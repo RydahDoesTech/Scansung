@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="PLURAL_FOTA_AUTO_INSTALL_DEVICE">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Atosófar do ghléas i gceann %d soicind le tosú ar an nuashonrú a shuiteáil.</item>
+        <item quantity="two">Atosófar do ghléas i gceann %d shoicind le tosú ar an nuashonrú a shuiteáil.</item>
+        <item quantity="few">Atosófar do ghléas i gceann %d shoicind le tosú ar an nuashonrú a shuiteáil.</item>
+        <item quantity="many">Atosófar do ghléas i gceann %d soicind le tosú ar an nuashonrú a shuiteáil.</item>
+        <item quantity="other">Atosófar do ghléas i gceann %d soicind le tosú ar an nuashonrú a shuiteáil.</item>
+    </plurals>
+    <plurals name="PLURAL_FOTA_AUTO_INSTALL_PHONE">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Atosófar d&apos;fhón i gceann %d soicind le tosú ar an nuashonrú a shuiteáil.</item>
+        <item quantity="two">Atosófar d&apos;fhón i gceann %d shoicind le tosú ar an nuashonrú a shuiteáil.</item>
+        <item quantity="few">Atosófar d&apos;fhón i gceann %d shoicind le tosú ar an nuashonrú a shuiteáil.</item>
+        <item quantity="many">Atosófar d&apos;fhón i gceann %d soicind le tosú ar an nuashonrú a shuiteáil.</item>
+        <item quantity="other">Atosófar d&apos;fhón i gceann %d soicind le tosú ar an nuashonrú a shuiteáil.</item>
+    </plurals>
+    <plurals name="PLURAL_FOTA_AUTO_INSTALL_TABLET">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Atosófar do tháibléad i gceann %d soicind le tosú ar an nuashonrú a shuiteáil.</item>
+        <item quantity="two">Atosófar do tháibléad i gceann %d shoicind le tosú ar an nuashonrú a shuiteáil.</item>
+        <item quantity="few">Atosófar do tháibléad i gceann %d shoicind le tosú ar an nuashonrú a shuiteáil.</item>
+        <item quantity="many">Atosófar do tháibléad i gceann %d soicind le tosú ar an nuashonrú a shuiteáil.</item>
+        <item quantity="other">Atosófar do tháibléad i gceann %d soicind le tosú ar an nuashonrú a shuiteáil.</item>
+    </plurals>
+    <plurals name="PLURAL_LIMITED_SCHEDULE">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Tar éis duit am a shocrú don tsuiteáil, ní féidir leat é a athrú ach %d uair.</item>
+        <item quantity="two">Tar éis duit am a shocrú don tsuiteáil, ní féidir leat é a athrú ach %d uair.</item>
+        <item quantity="few">Tar éis duit am a shocrú don tsuiteáil, ní féidir leat é a athrú ach %d huaire.</item>
+        <item quantity="many">Tar éis duit am a shocrú don tsuiteáil, ní féidir leat é a athrú ach %d n-uaire.</item>
+        <item quantity="other">Tar éis duit am a shocrú don tsuiteáil, ní féidir leat é a athrú ach %d uair.</item>
+    </plurals>
+    <plurals name="PLURAL_NOTIFICATION_REMIND_ME_IN_HOURS">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Meabhrú. i gc. %d ur</item>
+        <item quantity="two">Meabhrú. i gc. %d ur</item>
+        <item quantity="few">Meabhrú. i gc. %d ur</item>
+        <item quantity="many">Meabhrú. i gc. %d n-ur</item>
+        <item quantity="other">Meabhrú. i gc. %d ur</item>
+    </plurals>
+    <plurals name="PLURAL_UPDATE_COUNT_DOWN_DEVICE_AB">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Atosófar do ghléas go huathoibríoch i gceann %d soicind leis an nuashonrú a chur i gcrích.</item>
+        <item quantity="two">Atosófar do ghléas go huathoibríoch i gceann %d shoicind leis an nuashonrú a chur i gcrích.</item>
+        <item quantity="few">Atosófar do ghléas go huathoibríoch i gceann %d shoicind leis an nuashonrú a chur i gcrích.</item>
+        <item quantity="many">Atosófar do ghléas go huathoibríoch i gceann %d soicind leis an nuashonrú a chur i gcrích.</item>
+        <item quantity="other">Atosófar do ghléas go huathoibríoch i gceann %d soicind leis an nuashonrú a chur i gcrích.</item>
+    </plurals>
+    <plurals name="PLURAL_UPDATE_COUNT_DOWN_PHONE_AB">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Atosófar d&apos;fhón go huathoibríoch i gceann %d soicind leis an nuashonrú a chur i gcrích.</item>
+        <item quantity="two">Atosófar d&apos;fhón go huathoibríoch i gceann %d shoicind leis an nuashonrú a chur i gcrích.</item>
+        <item quantity="few">Atosófar d&apos;fhón go huathoibríoch i gceann %d shoicind leis an nuashonrú a chur i gcrích.</item>
+        <item quantity="many">Atosófar d&apos;fhón go huathoibríoch i gceann %d soicind leis an nuashonrú a chur i gcrích.</item>
+        <item quantity="other">Atosófar d&apos;fhón go huathoibríoch i gceann %d soicind leis an nuashonrú a chur i gcrích.</item>
+    </plurals>
+    <plurals name="PLURAL_UPDATE_COUNT_DOWN_TABLET_AB">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Atosófar do tháibléad go huathoibríoch i gceann %d soicind leis an nuashonrú a chur i gcrích.</item>
+        <item quantity="two">Atosófar do tháibléad go huathoibríoch i gceann %d shoicind leis an nuashonrú a chur i gcrích.</item>
+        <item quantity="few">Atosófar do tháibléad go huathoibríoch i gceann %d shoicind leis an nuashonrú a chur i gcrích.</item>
+        <item quantity="many">Atosófar do tháibléad go huathoibríoch i gceann %d soicind leis an nuashonrú a chur i gcrích.</item>
+        <item quantity="other">Atosófar do tháibléad go huathoibríoch i gceann %d soicind leis an nuashonrú a chur i gcrích.</item>
+    </plurals>
+</resources>

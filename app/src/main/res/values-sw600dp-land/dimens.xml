@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_max_width_ratio">0.5</dimen>
+    <dimen name="button_min_width_ratio">0.5</dimen>
+    <dimen name="horizontal_margin_between_buttons">24</dimen>
+    <dimen name="whats_new_image_height">190dp</dimen>
+</resources>

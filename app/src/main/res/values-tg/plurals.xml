@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="PLURAL_FOTA_AUTO_INSTALL_DEVICE">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Дастгоҳ баъди %d сония аз нав ба кор даромада, насбкунии навсозиро оғоз мекунад.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Дастгоҳ баъди %d сония аз нав ба кор даромада, насбкунии навсозиро оғоз мекунад.</item>
+    </plurals>
+    <plurals name="PLURAL_FOTA_AUTO_INSTALL_PHONE">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Телефон баъди %d сония аз нав ба кор даромада, насбкунии навсозиро оғоз мекунад.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Телефон баъди %d сония аз нав ба кор даромада, насбкунии навсозиро оғоз мекунад.</item>
+    </plurals>
+    <plurals name="PLURAL_FOTA_AUTO_INSTALL_TABLET">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Планшет баъди %d сония аз нав ба кор даромада, насбкунии навсозиро оғоз мекунад.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Планшет баъди %d сония аз нав ба кор даромада, насбкунии навсозиро оғоз мекунад.</item>
+    </plurals>
+    <plurals name="PLURAL_LIMITED_SCHEDULE">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Баъд аз вақти насбкуниро танзим кардан, онро танҳо %d бор иваз кардан мумкин мешавад.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Баъд аз вақти насбкуниро танзим кардан, онро танҳо %d бор иваз кардан мумкин мешавад.</item>
+    </plurals>
+    <plurals name="PLURAL_NOTIFICATION_REMIND_ME_IN_HOURS">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d соат пас хтррсн к</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d соат пас хтррсн к</item>
+    </plurals>
+    <plurals name="PLURAL_UPDATE_COUNT_DOWN_DEVICE_AB">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Дастгоҳ баъди %d сония аз нав ба кор даромада, насбкунии навсозиро ба анҷом мерасонад.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Дастгоҳ баъди %d сония аз нав ба кор даромада, насбкунии навсозиро ба анҷом мерасонад.</item>
+    </plurals>
+    <plurals name="PLURAL_UPDATE_COUNT_DOWN_PHONE_AB">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Телефон баъди %d сония аз нав ба кор даромада, насбкунии навсозиро ба анҷом мерасонад.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Телефон баъди %d сония аз нав ба кор даромада, насбкунии навсозиро ба анҷом мерасонад.</item>
+    </plurals>
+    <plurals name="PLURAL_UPDATE_COUNT_DOWN_TABLET_AB">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Планшет баъди %d сония аз нав ба кор даромада, насбкунии навсозиро ба анҷом мерасонад.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Планшет баъди %d сония аз нав ба кор даромада, насбкунии навсозиро ба анҷом мерасонад.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:paddingTop="@dimen/progress_circle_dialog_padding"
+    android:paddingBottom="@dimen/spacing_vertical_huge"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingHorizontal="@dimen/progress_circle_dialog_padding">
+    <androidx.appcompat.widget.SeslProgressBar
+        android:id="@+id/progress_circle"
+        android:indeterminate="true"
+        style="@style/Widget.ProgressCircleDialog"/>
+    <com.samsung.android.fotaagent.common.view.TextViewWithLimitedFontSize
+        android:id="@+id/progress_content"
+        style="@style/Widget.TextView.ProgressCircleDialog"/>
+</LinearLayout>

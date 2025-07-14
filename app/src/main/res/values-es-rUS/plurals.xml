@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="PLURAL_FOTA_AUTO_INSTALL_DEVICE">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Su dispositivo se reiniciará dentro de %d segundo para comenzar a instalar la actualización.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Su dispositivo se reiniciará dentro de %d segundos para comenzar a instalar la actualización.</item>
+    </plurals>
+    <plurals name="PLURAL_FOTA_AUTO_INSTALL_PHONE">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Su teléfono se reiniciará dentro de %d segundo para comenzar a instalar la actualización.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Su teléfono se reiniciará dentro de %d segundos para comenzar a instalar la actualización.</item>
+    </plurals>
+    <plurals name="PLURAL_FOTA_AUTO_INSTALL_TABLET">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Su tableta se reiniciará dentro de %d segundo para comenzar a instalar la actualización.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Su tableta se reiniciará dentro de %d segundos para comenzar a instalar la actualización.</item>
+    </plurals>
+    <plurals name="PLURAL_LIMITED_SCHEDULE">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Después de definir una hora de instalación, solo puede cambiarla %d vez.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Después de definir una hora de instalación, solo puede cambiarla %d veces.</item>
+    </plurals>
+    <plurals name="PLURAL_NOTIFICATION_REMIND_ME_IN_HOURS">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Recordarme en %d h</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Recordarme en %d h</item>
+    </plurals>
+    <plurals name="PLURAL_UPDATE_COUNT_DOWN_DEVICE_AB">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Su dispositivo se reiniciará automáticamente dentro de %d segundo para completar la actualización.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Su dispositivo se reiniciará automáticamente dentro de %d segundos para completar la actualización.</item>
+    </plurals>
+    <plurals name="PLURAL_UPDATE_COUNT_DOWN_PHONE_AB">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Su teléfono se reiniciará automáticamente dentro de %d segundo para completar la actualización.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Su teléfono se reiniciará automáticamente dentro de %d segundos para completar la actualización.</item>
+    </plurals>
+    <plurals name="PLURAL_UPDATE_COUNT_DOWN_TABLET_AB">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Su tableta se reiniciará automáticamente dentro de %d segundo para completar la actualización.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Su tableta se reiniciará automáticamente dentro de %d segundos para completar la actualización.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:key="@string/admin_main">
+    <androidx.preference.Preference
+        android:title="@string/download_and_install"
+        android:key="@string/download_and_install"
+        android:summary="Update software by user initiation"/>
+    <androidx.preference.Preference
+        android:title="@string/sideload"
+        android:key="@string/sideload"
+        android:summary="Update software by sideloading"/>
+    <androidx.preference.Preference
+        android:title="@string/dm_settings"
+        android:key="@string/dm_settings"
+        android:summary="Configure DM Account Profile"
+        app:fragment="com.idm.fotaagent.enabler.ui.admin.setting.AdminSettingFragment"/>
+    <androidx.preference.EditTextPreference
+        android:title="@string/command"
+        android:key="@string/command"
+        android:summary="Pop up dialog to enter command"/>
+    <androidx.preference.Preference
+        android:title="@string/device_status"
+        android:key="@string/device_status"
+        android:summary="Click to check"/>
+</androidx.preference.PreferenceScreen>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="PLURAL_FOTA_AUTO_INSTALL_DEVICE">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">আপডেটটি ইনস্টল করা আরম্ভ করতে আপনার ডিভাইস %d সেকেন্ডে পুনঃশুরু হবে।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">আপডেটটি ইনস্টল করা আরম্ভ করতে আপনার ডিভাইস %d সেকেন্ডে পুনঃশুরু হবে।</item>
+    </plurals>
+    <plurals name="PLURAL_FOTA_AUTO_INSTALL_PHONE">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">আপডেট ইনস্টল শুরু করতে আপনার ফোন %d সেকেন্ডে পুনঃশুরু হবে।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">আপডেট ইনস্টল শুরু করতে আপনার ফোন %d সেকেন্ডে পুনঃশুরু হবে।</item>
+    </plurals>
+    <plurals name="PLURAL_FOTA_AUTO_INSTALL_TABLET">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">আপডেট ইনস্টল শুরু করতে আপনার ট্যাবলেট %d সেকেন্ডে পুনঃশুরু হবে।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">আপডেট ইনস্টল শুরু করতে আপনার ট্যাবলেট %d সেকেন্ডে পুনঃশুরু হবে।</item>
+    </plurals>
+    <plurals name="PLURAL_LIMITED_SCHEDULE">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">আপনি ইনস্টল করার জন্য একটি সময় সেট করার পরে, আপনি এটি কেবলমাত্র %d বার পরিবর্তন করতে পারেন।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">আপনি ইনস্টল করার জন্য একটি সময় সেট করার পরে, আপনি এটি কেবলমাত্র %d বার পরিবর্তন করতে পারেন।</item>
+    </plurals>
+    <plurals name="PLURAL_NOTIFICATION_REMIND_ME_IN_HOURS">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ঘণ্টার মধ্যে আমাকে মনে করান</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ঘণ্টার মধ্যে আমাকে মনে করান</item>
+    </plurals>
+    <plurals name="PLURAL_UPDATE_COUNT_DOWN_DEVICE_AB">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">আপডেট সম্পূর্ণ করতে আপনার ডিভাইসটি স্বয়ংক্রিয়ভাবে %d সেকেন্ডে পুনঃশুরু হবে।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">আপডেট সম্পূর্ণ করতে আপনার ডিভাইসটি স্বয়ংক্রিয়ভাবে %d সেকেন্ডে পুনঃশুরু হবে।</item>
+    </plurals>
+    <plurals name="PLURAL_UPDATE_COUNT_DOWN_PHONE_AB">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">আপডেট সম্পূর্ণ করতে আপনার ফোন স্বয়ংক্রিয়ভাবে %d সেকেন্ডে পুনঃশুরু হবে।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">আপডেট সম্পূর্ণ করতে আপনার ফোন স্বয়ংক্রিয়ভাবে %d সেকেন্ডে পুনঃশুরু হবে।</item>
+    </plurals>
+    <plurals name="PLURAL_UPDATE_COUNT_DOWN_TABLET_AB">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">আপডেট সম্পূর্ণ করতে আপনার ট্যাবলেট স্বয়ংক্রিয়ভাবে %d সেকেন্ডে পুনঃশুরু হবে।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">আপডেট সম্পূর্ণ করতে আপনার ট্যাবলেট স্বয়ংক্রিয়ভাবে %d সেকেন্ডে পুনঃশুরু হবে।</item>
+    </plurals>
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="PLURAL_FOTA_AUTO_INSTALL_DEVICE">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ອຸປະກອນຂອງທ່ານຈະປິດເປີດຄືນໃໝ່ໃນ %d ວິນາທີເພື່ອເລີ່ມຕົ້ນຕິດຕັ້ງການອັບເດດ.</item>
+    </plurals>
+    <plurals name="PLURAL_FOTA_AUTO_INSTALL_PHONE">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ໂທລະສັບຂອງທ່ານຈະປິດເປີດຄືນໃໝ່ໃນ %d ວິນາທີເພື່ອເລີ່ມຕົ້ນການຕິດຕັ້ງອັບເດດ.</item>
+    </plurals>
+    <plurals name="PLURAL_FOTA_AUTO_INSTALL_TABLET">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ແທັບເລັດຂອງທ່ານຈະປິດເປີດຄືນໃໝ່ໃນ %d ວິນາທີເພື່ອເລີ່ມຕົ້ນການຕິດຕັ້ງອັບເດດ.</item>
+    </plurals>
+    <plurals name="PLURAL_LIMITED_SCHEDULE">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ຫຼັງຈາກທ່ານຕັ້ງເວລາເພື່ອຕິດຕັ້ງ, ທ່ານສາມາດປ່ຽນມັນໄດ້ %d ຄັ້ງເທົ່ານັ້ນ.</item>
+    </plurals>
+    <plurals name="PLURAL_NOTIFICATION_REMIND_ME_IN_HOURS">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ເຕືອນຂ້ອຍອີກໃນ %d ຊມ</item>
+    </plurals>
+    <plurals name="PLURAL_UPDATE_COUNT_DOWN_DEVICE_AB">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ອຸປະກອນຂອງທ່ານຈະປິດເປີດຄືນໃໝ່ໂດຍອັດຕະໂນມັດໃນ %d ວິນາທີ ເພື່ອເຮັດການອັບເດດໃຫ້ສຳເລັດ.</item>
+    </plurals>
+    <plurals name="PLURAL_UPDATE_COUNT_DOWN_PHONE_AB">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ໂທລະສັບຂອງທ່ານຈະປິດເປີດຄືນໃໝ່ໃນ %d ວິນາທີເພື່ອສຳເລັດການອັບເດດ.</item>
+    </plurals>
+    <plurals name="PLURAL_UPDATE_COUNT_DOWN_TABLET_AB">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ແທັບເລັດຂອງທ່ານຈະປິດເປີດຄືນໃໝ່ໃນ %d ວິນາທີເພື່ອສຳເລັດການອັບເດດ.</item>
+    </plurals>
+</resources>

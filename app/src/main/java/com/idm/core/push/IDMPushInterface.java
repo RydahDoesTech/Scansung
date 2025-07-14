@@ -1,0 +1,50 @@
+package com.idm.core.push;
+
+/* loaded from: classes.dex */
+public interface IDMPushInterface {
+    public static final int IDM_CONTENT_TYPE_CODE_IDX = 3;
+    public static final int IDM_HEADER_LENGTH_IDX = 2;
+    public static final int IDM_MIME_TYPE_CODE_SYNCML_DM_NOTI = 68;
+    public static final int IDM_MIME_TYPE_CODE_SYNCML_DM_WBXML = 66;
+    public static final int IDM_MIME_TYPE_CODE_SYNCML_DM_XML = 67;
+    public static final int IDM_MIME_TYPE_CODE_SYNCML_DS_NOTI = 78;
+    public static final int IDM_MIME_TYPE_CODE_WAP_CONNECTIVITY_WBXML = 54;
+    public static final int IDM_MIME_TYPE_CODE_WAP_CONNECTIVITY_XML = 53;
+    public static final int IDM_MIME_TYPE_MASK_CODE = 127;
+    public static final String IDM_MIME_TYPE_TEXT_SYNCML_DM_NOTI = "application/vnd.syncml.notification";
+    public static final String IDM_MIME_TYPE_TEXT_SYNCML_DM_WBXML = "application/vnd.syncml.dm+wbxml";
+    public static final String IDM_MIME_TYPE_TEXT_WAP_CONNECTIVITY_WBXML = "application/vnd.wap.connectivity-wbxml";
+    public static final String IDM_MIME_TYPE_TEXT_WAP_CONNECTIVITY_XML = "application/vnd.wap.connectivity-xml";
+    public static final int IDM_NOTI_DIGEST_LEN = 16;
+    public static final int IDM_NOTI_INITIATED_CLIENT = 0;
+    public static final int IDM_NOTI_INITIATED_SERVER = 1;
+    public static final int IDM_NOTI_STATUS_FINISH = 2;
+    public static final int IDM_NOTI_STATUS_NONE = 0;
+    public static final int IDM_NOTI_STATUS_PROCESSING = 1;
+    public static final int IDM_NOTI_UIMODE_BACKGROUND = 1;
+    public static final int IDM_NOTI_UIMODE_INFORMATIVE = 2;
+    public static final int IDM_NOTI_UIMODE_INTERACTIVE = 3;
+    public static final int IDM_NOTI_UIMODE_NONE = -1;
+    public static final int IDM_NOTI_UIMODE_NOT_SPECIFIED = 0;
+    public static final int IDM_NOTI_UIMODE_WIFIBACKGROUND = 4;
+    public static final int IDM_PDU_HEADER_LEN = 6;
+    public static final int IDM_PUSH_IDX = 1;
+    public static final int IDM_PUSH_TYPE_IP = 2;
+    public static final int IDM_PUSH_TYPE_WAP = 1;
+    public static final int IDM_T_PUSH_PDU = 6;
+    public static final int IDM_WAP_CONTENT_TYPE_HEARDER_LENGTH_CODE = 31;
+    public static final int IDM_WAP_PUSH_HEADER_LEN_IDX = 2;
+    public static final int IDM_WAP_PUSH_MAC_IND = 146;
+    public static final String IDM_WAP_PUSH_MAC_STRING = "MAC";
+    public static final int IDM_WAP_PUSH_PDU_CODE = 6;
+    public static final int IDM_WAP_PUSH_PDU_IDX = 1;
+    public static final int IDM_WAP_PUSH_SEC_IND = 145;
+    public static final String IDM_WAP_PUSH_SEC_STRING = "SEC";
+    public static final int IDM_WAP_PUSH_SEC_TYPE_MASK = 15;
+    public static final int IDM_WAP_PUSH_SEC_TYPE_NETWPIN = 128;
+    public static final int IDM_WAP_PUSH_SEC_TYPE_USERNETWPIN = 130;
+    public static final int IDM_WAP_PUSH_SEC_TYPE_USERPIN = 129;
+    public static final int IDM_WSP_HEADER_LEN_INDEX_IN_PUSH_MSG = 2;
+    public static final int IDM_X_APP_ID_VALUE_IDX = 4;
+    public static final int IDM_X_WAP_APPLICATION_ID_IDX = 5;
+}

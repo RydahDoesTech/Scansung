@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ThemeMetaData
+    FormatVersion="1.3"
+    GuideVersion="1.4">
+    <AppMetaData
+        Name="SyncmlDM"
+        TargetApi="21"
+        TargetPackageName="com.wssyncmldm"
+        VersionCode="4"
+        VersionName="4.21.150311">
+        <Include RefName="SESL"/>
+        <Property
+            Comment="Status bar background color"
+            DefaultValue="#fff6f6f8"
+            DestAttribName="status_bar_background_color"
+            UID="42-S-1"
+            ValueRef="1-51"
+            ValueType="BgColor"/>
+        <Property
+            Comment="Status bar icon color (light / dark)"
+            DefaultValue="true"
+            DestAttribName="status_bar_window_light"
+            UID="42-S-2"
+            ValueRef="1-51-1"
+            ValueType="Bool"/>
+        <Property
+            Comment="Main title text color"
+            DefaultValue="#ff010102"
+            DestAttribName="main_title_textcolor"
+            UID="42-1-2"
+            ValueRef="1-1-3"
+            ValueType="TextColor"/>
+        <Property
+            Comment="Main body text color"
+            DefaultValue="#ff99999e"
+            DestAttribName="main_body_textcolor"
+            UID="42-1-4"
+            ValueRef="1-1-4"
+            ValueType="TextColor"/>
+        <Property
+            Comment="Description link text color"
+            DefaultValue="#ff376fde"
+            DestAttribName="description_link_textcolor"
+            UID="42-1-5"
+            ValueRef="1-3-4"
+            ValueType="TextColor"/>
+        <Property
+            Comment="Rounded corner"
+            DefaultValue="#fff6f6f8"
+            DestAttribName="content_background_color"
+            UID="42-1-12"
+            ValueRef="1-1-1"
+            ValueType="BgColor"/>
+        <Property
+            Comment="Time left text color"
+            DefaultValue="#ff010102"
+            DestAttribName="main_body2_textcolor"
+            UID="42-1-16"
+            ValueRef="1-3-3"
+            ValueType="TextColor"/>
+        <Property
+            Comment="Contents description text color"
+            DefaultValue="#ff252528"
+            DestAttribName="contents_description_textcolor"
+            UID="42-1-17"
+            ValueRef="1-3-1"
+            ValueType="TextColor"/>
+        <Property
+            Comment="Active progress view text color"
+            DefaultValue="#ff010102"
+            DestAttribName="active_progress_view_textcolor"
+            UID="42-1-20"
+            ValueRef="1-3-3"
+            ValueType="TextColor"/>
+        <Property
+            Comment="Inactive progress view text color"
+            DefaultValue="#ff929295"
+            DestAttribName="inactive_progress_view_textcolor"
+            UID="42-1-21"
+            ValueRef="1-12-3"
+            ValueType="TextColor"/>
+        <Property
+            Comment="Caution icon color"
+            DefaultValue="#ff252528"
+            DestAttribName="caution_icon_color"
+            UID="42-1-22"
+            ValueRef="1-12-4"
+            ValueType="TextColor"/>
+        <Property
+            Comment="Progress circle dialog text color"
+            DefaultValue="#ff252528"
+            DestAttribName="progress_circle_text_color"
+            UID="42-5-2"
+            ValueRef="24-A"
+            ValueType="TextColor"/>
+        <Property
+            Comment="Color High Emphasis Button BG tint color"
+            DefaultValue="#ff387aff"
+            DestAttribName="high_emphasis_button_background_color"
+            UID="42-6-1"
+            ValueRef="1-A"
+            ValueType="BgColor"/>
+        <Property
+            Comment="Color High Emphasis Button text color"
+            DefaultValue="#fffafaff"
+            DestAttribName="high_emphasis_button_textcolor"
+            UID="42-6-2"
+            ValueRef="1-E"
+            ValueType="TextColor"/>
+        <Property
+            Comment="Color Medium Emphasis Button text color"
+            DefaultValue="#ff010102"
+            DestAttribName="medium_emphasis_button_textcolor"
+            UID="42-6-3"
+            ValueRef="1-7-2"
+            ValueType="TextColor"/>
+        <Property
+            Comment="Color Medium Emphasis Button BG tint color"
+            DefaultValue="#ffe4e4e7"
+            DestAttribName="medium_emphasis_button_background_color"
+            UID="42-6-4"
+            ValueRef="1-7-1"
+            ValueType="BgColor"/>
+        <Property
+            Comment="Sub Title text color"
+            DefaultValue="#ff252525"
+            DestAttribName="subinformation_title_textcolor"
+            UID="42-7-1"
+            ValueRef="1-19-3"
+            ValueType="TextColor"/>
+        <Property
+            Comment="Sub Information text color"
+            DefaultValue="#ff636368"
+            DestAttribName="description_textcolor"
+            UID="42-7-2"
+            ValueRef="1-9-9"
+            ValueType="TextColor"/>
+    </AppMetaData>
+</ThemeMetaData>

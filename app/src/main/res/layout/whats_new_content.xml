@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:id="@+id/whats_new_content"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    class="com.samsung.android.fotaagent.common.view.RoundedCorner$LinearLayout">
+    <view
+        android:configChanges="smallestScreenSize"
+        android:id="@+id/layout_whats_new_header"
+        android:layout="@layout/whats_new_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        class="com.samsung.android.fotaagent.common.view.ViewReinflatingLayout"/>
+    <com.samsung.android.fotaagent.common.view.TextViewWithLimitedFontSize
+        android:id="@+id/tv_content_body"
+        android:textDirection="locale"
+        style="@style/Widget.TextView.WhatsNew.Body"/>
+</view>

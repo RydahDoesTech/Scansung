@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="PLURAL_FOTA_AUTO_INSTALL_DEVICE">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Urządzenie zostanie uruchomione ponownie za %d sekundę, aby rozpocząć instalowanie aktualizacji.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Urządzenie zostanie uruchomione ponownie za %d sekundy, aby rozpocząć instalowanie aktualizacji.</item>
+        <item quantity="many">Urządzenie zostanie uruchomione ponownie za %d sekund, aby rozpocząć instalowanie aktualizacji.</item>
+        <item quantity="other">Urządzenie zostanie uruchomione ponownie za %d sekundy, aby rozpocząć instalowanie aktualizacji.</item>
+    </plurals>
+    <plurals name="PLURAL_FOTA_AUTO_INSTALL_PHONE">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Mobilniŏk bydzie autōmatycznie sztartniynty drugi rŏz za %d sekunda, coby sztartnōńć insztalowanie uaktualniynio.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Mobilniŏk bydzie autōmatycznie sztartniynty drugi rŏz za %d sekundy, coby sztartnōńć insztalowanie uaktualniynio.</item>
+        <item quantity="many">Mobilniŏk bydzie autōmatycznie sztartniynty drugi rŏz za %d sekund, coby sztartnōńć insztalowanie uaktualniynio.</item>
+        <item quantity="other">Mobilniŏk bydzie autōmatycznie sztartniynty drugi rŏz za %d sekund, coby sztartnōńć insztalowanie uaktualniynio.</item>
+    </plurals>
+    <plurals name="PLURAL_FOTA_AUTO_INSTALL_TABLET">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Tablet bydzie autōmatycznie sztartniynty drugi rŏz za %d sekunda, coby sztartnōńć insztalowanie uaktualniynio.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Tablet bydzie autōmatycznie sztartniynty drugi rŏz za %d sekundy, coby sztartnōńć insztalowanie uaktualniynio.</item>
+        <item quantity="many">Tablet bydzie autōmatycznie sztartniynty drugi rŏz za %d sekund, coby sztartnōńć insztalowanie uaktualniynio.</item>
+        <item quantity="other">Tablet bydzie autōmatycznie sztartniynty drugi rŏz za %d sekund, coby sztartnōńć insztalowanie uaktualniynio.</item>
+    </plurals>
+    <plurals name="PLURAL_NOTIFICATION_REMIND_ME_IN_HOURS">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Przypomnij mi za %d godz.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Przypomnij mi za %d godz.</item>
+        <item quantity="many">Przypomnij mi za %d godz.</item>
+        <item quantity="other">Przypomnij mi za %d godz.</item>
+    </plurals>
+    <plurals name="PLURAL_UPDATE_COUNT_DOWN_DEVICE_AB">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Urządzenie zostanie automatycznie uruchomione ponownie za %d sekundę, aby zakończyć aktualizację.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Urządzenie zostanie automatycznie uruchomione ponownie za %d sekundy, aby zakończyć aktualizację.</item>
+        <item quantity="many">Urządzenie zostanie automatycznie uruchomione ponownie za %d sekund, aby zakończyć aktualizację.</item>
+        <item quantity="other">Urządzenie zostanie automatycznie uruchomione ponownie za %d sekundy, aby zakończyć aktualizację.</item>
+    </plurals>
+    <plurals name="PLURAL_UPDATE_COUNT_DOWN_PHONE_AB">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Telefon zostanie uruchomiony ponownie za %d sekundę, aby rozpocząć aktualizację.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Telefon zostanie uruchomiony ponownie za %d sekundy, aby rozpocząć aktualizację.</item>
+        <item quantity="many">Telefon zostanie uruchomiony ponownie za %d sekund, aby rozpocząć aktualizację.</item>
+        <item quantity="other">Telefon zostanie uruchomiony ponownie za %d sekundy, aby rozpocząć aktualizację.</item>
+    </plurals>
+    <plurals name="PLURAL_UPDATE_COUNT_DOWN_TABLET_AB">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Tablet zostanie uruchomiony ponownie za %d sekundę, aby rozpocząć aktualizację.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Tablet zostanie uruchomiony ponownie za %d sekundy, aby rozpocząć aktualizację.</item>
+        <item quantity="many">Tablet zostanie uruchomiony ponownie za %d sekund, aby rozpocząć aktualizację.</item>
+        <item quantity="other">Tablet zostanie uruchomiony ponownie za %d sekundy, aby rozpocząć aktualizację.</item>
+    </plurals>
+</resources>

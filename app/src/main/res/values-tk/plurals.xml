@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="PLURAL_FOTA_AUTO_INSTALL_DEVICE">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Täzelemäni gurnap başlamak üçin, enjamyňyz %d sekuntdan täzeden işlediler.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Täzelemäni gurnap başlamak üçin, enjamyňyz %d sekuntdan täzeden işlediler.</item>
+    </plurals>
+    <plurals name="PLURAL_FOTA_AUTO_INSTALL_PHONE">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Täzelemäni gurnap başlamak üçin, telefonyňyz %d sekuntdan ýapylyp açylar.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Täzelemäni gurnap başlamak üçin, telefonyňyz %d sekuntdan açylyp ýapylar.</item>
+    </plurals>
+    <plurals name="PLURAL_FOTA_AUTO_INSTALL_TABLET">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Täzelemäni gurnap başlamak üçin, planşetiňiz %d sekuntdan ýapylyp açylar.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Täzelemäni gurnap başlamak üçin, planşetiňiz %d sekuntdan açylyp ýapylar.</item>
+    </plurals>
+    <plurals name="PLURAL_LIMITED_SCHEDULE">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Gurnamaga wagt belläniňizden soň, ony diňe %d gezek üýtgedip bilersiňiz.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Gurnamaga wagt belläniňizden soň, ony diňe %d gezek üýtgedip bilersiňiz.</item>
+    </plurals>
+    <plurals name="PLURAL_NOTIFICATION_REMIND_ME_IN_HOURS">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d sagatdan ýatlat</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d sagatdan ýatlat</item>
+    </plurals>
+    <plurals name="PLURAL_UPDATE_COUNT_DOWN_DEVICE_AB">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Täzelemegi tamamlamak üçin, enjamyňyz %d sekuntdan awtomatik täzeden işlediler.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Täzelemegi tamamlamak üçin, enjamyňyz %d sekuntdan awtomatik täzeden işlediler.</item>
+    </plurals>
+    <plurals name="PLURAL_UPDATE_COUNT_DOWN_PHONE_AB">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Täzelemegi tamamlamak üçin, telefonyňyz %d sekuntdan awtomatik täzeden işlediler.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Täzelemegi tamamlamak üçin, telefonyňyz %d sekuntdan awtomatik täzeden işlediler.</item>
+    </plurals>
+    <plurals name="PLURAL_UPDATE_COUNT_DOWN_TABLET_AB">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Täzelemegi tamamlamak üçin, planşetiňiz %d sekuntdan awtomatik täzeden işlediler.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Täzelemegi tamamlamak üçin, planşetiňiz %d sekuntdan awtomatik täzeden işlediler.</item>
+    </plurals>
+</resources>

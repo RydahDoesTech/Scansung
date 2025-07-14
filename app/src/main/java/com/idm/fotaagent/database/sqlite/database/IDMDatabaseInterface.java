@@ -1,0 +1,58 @@
+package com.idm.fotaagent.database.sqlite.database;
+
+/* loaded from: classes.dex */
+public interface IDMDatabaseInterface {
+    public static final String DATABASE_NAME = "idm.db";
+    public static final int DATABASE_VERSION = 12;
+    public static final String IDM_ACC = "./DMAcc/";
+    public static final String IDM_ADDR = "/AppAddr/";
+    public static final String IDM_AUTH = "/AppAuth/";
+    public static final String IDM_CONREF = "/ToConRef/";
+    public static final String IDM_DB_BASEINFO_CREATE = "CREATE TABLE IF NOT EXISTS basicInfo (_id INTEGER PRIMARY KEY,b2btarget TEXT,previousversion TEXT,corpId TEXT,salescode TEXT);";
+    public static final String IDM_DB_DDFHASH = "ddfhash";
+    public static final String IDM_DB_DDFHASH_CREATE = "CREATE TABLE IF NOT EXISTS ddfhash (filename PRIMARY KEY,hashdata TEXT);";
+    public static final String IDM_DB_DDFHASH_DATA = "hashdata";
+    public static final String IDM_DB_DDFHASH_NAME = "filename";
+    public static final String IDM_DB_ENABLER_BASIC_ID = "_id";
+    public static final String IDM_DB_ENABLER_BASIC_INFO = "basicInfo";
+    public static final String IDM_DB_EXECINFO = "execinfo";
+    public static final String IDM_DB_EXECINFO_CORRELATOR = "correlator";
+    public static final String IDM_DB_EXECINFO_CREATE = "CREATE TABLE IF NOT EXISTS execinfo (_id INTEGER PRIMARY KEY,taskid TEXT,serverid TEXT,path TEXT,data TEXT,correlator TEXT);";
+    public static final String IDM_DB_EXECINFO_DATA = "data";
+    public static final String IDM_DB_EXECINFO_ID = "_id";
+    public static final String IDM_DB_EXECINFO_PATH = "path";
+    public static final String IDM_DB_EXECINFO_SERVERID = "serverid";
+    public static final String IDM_DB_NOTIINFO = "notiinfo";
+    public static final String IDM_DB_NOTIINFO_CREATE = "CREATE TABLE IF NOT EXISTS notiinfo (_id INTEGER PRIMARY KEY AUTOINCREMENT,serverid TEXT,sessionid TEXT,uimode INTEGER,initiator INTEGER,future INTEGER,status INTEGER,regdate INTEGER);";
+    public static final String IDM_DB_NOTIINFO_FUTURE = "future";
+    public static final String IDM_DB_NOTIINFO_ID = "_id";
+    public static final String IDM_DB_NOTIINFO_INITIATOR = "initiator";
+    public static final String IDM_DB_NOTIINFO_REGDATE = "regdate";
+    public static final String IDM_DB_NOTIINFO_SERVERID = "serverid";
+    public static final String IDM_DB_NOTIINFO_SESSIONID = "sessionid";
+    public static final String IDM_DB_NOTIINFO_STATUS = "status";
+    public static final String IDM_DB_NOTIINFO_UIMODE = "uimode";
+    public static final String IDM_DB_PROFILE = "profile";
+    public static final String IDM_DB_PROFILE_ACTIVE = "active";
+    public static final String IDM_DB_PROFILE_CREATE = "CREATE TABLE IF NOT EXISTS profile (_id INTEGER PRIMARY KEY AUTOINCREMENT,serverid TEXT,active INTEGER);";
+    public static final String IDM_DB_PROFILE_ID = "_id";
+    public static final String IDM_DB_PROFILE_SERVERID = "serverid";
+    public static final String IDM_DB_SQL_DROP = "DROP TABLE IF EXISTS ";
+    public static final String IDM_FUMO = "./FUMO/";
+    public static final String IDM_MO_NODE = "content://com.idm.providers.dm/mo/";
+    public static final String IDM_SFOTA_SERVERID = "x6g1q14r75";
+    public static final String IDM_SQL_ADD = " ADD ";
+    public static final String IDM_SQL_ALTER_TABLE = "ALTER TABLE ";
+    public static final String IDM_SQL_FROM = " from ";
+    public static final String IDM_SQL_SELECT = "select ";
+    public static final String IDM_SQL_TYPE_INT = " INTEGER";
+    public static final String IDM_SQL_TYPE_TEXT = " TEXT";
+    public static final String SDK_DATABBASE_NAME = "idmsdk.db";
+    public static final String IDM_DB_EXECINFO_TASKID = "taskid";
+    public static final String[] IDM_DB_EXECINFO_COLUMNS = {"_id", "serverid", IDM_DB_EXECINFO_TASKID, "path", "data", "correlator"};
+    public static final String IDM_DB_ENABLER_BASIC_CORPID = "corpId";
+    public static final String IDM_DB_ENABLER_BASIC_B2BTARGET = "b2btarget";
+    public static final String IDM_DB_ENABLER_BASIC_SALESCODE = "salescode";
+    public static final String IDM_DB_ENABLER_BASIC_PREVIOUS_FIRMWAREVERSION = "previousversion";
+    public static final String[] IDM_DB_ENABLER_BASIC_INFO_COLUMNS = {"_id", IDM_DB_ENABLER_BASIC_CORPID, IDM_DB_ENABLER_BASIC_B2BTARGET, IDM_DB_ENABLER_BASIC_SALESCODE, IDM_DB_ENABLER_BASIC_PREVIOUS_FIRMWAREVERSION};
+}

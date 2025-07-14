@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    class="com.samsung.android.fotaagent.common.view.RoundedCorner$LinearLayout">
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/caution_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/spacing_vertical_small"
+            android:layout_marginBottom="@dimen/spacing_vertical_tiny"
+            android:src="@drawable/fota_ic_caution"
+            android:scaleType="centerCrop"
+            android:adjustViewBounds="true"
+            android:layerType="software"
+            android:layout_marginStart="@dimen/spacing_horizontal_extra_medium"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/tv_content_title"
+            app:layout_constraintHorizontal_bias="0"
+            app:layout_constraintHorizontal_chainStyle="packed"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"/>
+        <com.samsung.android.fotaagent.common.view.TextViewWithLimitedFontSize
+            android:id="@+id/tv_content_title"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/caution_icon"
+            app:layout_constraintTop_toTopOf="parent"
+            style="@style/Widget.TextView.Sub.Title.WithImage"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+    <com.samsung.android.fotaagent.common.view.TextViewWithLimitedFontSize
+        android:id="@+id/tv_content_body"
+        style="@style/Widget.TextView.Sub.Body.Last"/>
+</view>

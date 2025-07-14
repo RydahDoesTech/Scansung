@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center"
+    android:orientation="horizontal"
+    android:id="@+id/buttons_content"
+    android:tag="layout-land/buttons_content_0"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:id="@+id/layout_mediumEmphasis"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:measureWithLargestChild="true">
+        <com.samsung.android.fotaagent.common.view.ButtonWithLimitedFontSizeAndWidth
+            android:id="@+id/bt_mediumEmphasis"
+            android:tag="binding_1"
+            android:background="@drawable/button_background"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_marginEnd="@dimen/spacing_vertical_huge"
+            android:stateListAnimator="?attr/seslSmallTouchAnimator"
+            style="@style/Widget.Button.MediumEmphasis"/>
+        <com.samsung.android.fotaagent.common.view.ButtonWithLimitedFontSizeAndWidth
+            android:id="@+id/bt_highEmphasis"
+            android:tag="binding_2"
+            android:background="@drawable/button_background"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:stateListAnimator="?attr/seslSmallTouchAnimator"
+            style="@style/Widget.Button.HighEmphasis"/>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:paddingTop="@dimen/spacing_please_wait_dialog_top"
+    android:paddingBottom="@dimen/spacing_please_wait_dialog_bottom"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingHorizontal="@dimen/spacing_please_wait_dialog_horizontal">
+    <com.samsung.android.fotaagent.common.view.TextViewWithLimitedFontSize
+        android:id="@+id/progress_content"
+        android:layout_marginBottom="@dimen/spacing_please_wait_body_bottom"
+        style="@style/Widget.TextView.PleaseWaitBody"/>
+    <androidx.appcompat.widget.SeslProgressBar
+        android:id="@+id/progress_bar"
+        style="@style/Widget.ProgressBar.PleaseWait"/>
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <com.samsung.android.fotaagent.common.view.TextViewWithLimitedFontSize
+            android:id="@+id/percent"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            style="@style/Widget.TextView.PleaseWaitPercent"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</LinearLayout>

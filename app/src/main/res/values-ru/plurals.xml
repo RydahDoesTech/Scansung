@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="PLURAL_FOTA_AUTO_INSTALL_DEVICE">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Для установки обновления устройство будет перезапущено через %d секунду.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Для установки обновления устройство будет перезапущено через %d секунды.</item>
+        <item quantity="many">Для установки обновления устройство будет перезапущено через %d секунд.</item>
+        <item quantity="other">Для установки обновления устройство будет перезапущено через %d секунды.</item>
+    </plurals>
+    <plurals name="PLURAL_FOTA_AUTO_INSTALL_PHONE">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Для установки обновления телефон будет перезапущен через %d секунду.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Для установки обновления телефон будет перезапущен через %d секунды.</item>
+        <item quantity="many">Для установки обновления телефон будет перезапущен через %d секунд.</item>
+        <item quantity="other">Для установки обновления телефон будет перезапущен через %d секунды.</item>
+    </plurals>
+    <plurals name="PLURAL_FOTA_AUTO_INSTALL_TABLET">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Для установки обновления планшет будет перезапущен через %d секунду.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Для установки обновления планшет будет перезапущен через %d секунды.</item>
+        <item quantity="many">Для установки обновления планшет будет перезапущен через %d секунд.</item>
+        <item quantity="other">Для установки обновления планшет будет перезапущен через %d секунды.</item>
+    </plurals>
+    <plurals name="PLURAL_LIMITED_SCHEDULE">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">После выбора времени установки изменить его можно только %d раз.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">После выбора времени установки изменить его можно только %d раза.</item>
+        <item quantity="many">После выбора времени установки изменить его можно только %d раз.</item>
+        <item quantity="other">После выбора времени установки изменить его можно только %d раза.</item>
+    </plurals>
+    <plurals name="PLURAL_NOTIFICATION_REMIND_ME_IN_HOURS">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Напомнить через %d ч</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Напомнить через %d ч</item>
+        <item quantity="many">Напомнить через %d ч</item>
+        <item quantity="other">Напомнить через %d ч</item>
+    </plurals>
+    <plurals name="PLURAL_UPDATE_COUNT_DOWN_DEVICE_AB">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Для завершения обновления устройство будет автоматически перезапущено через %d секунду.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Для завершения обновления устройство будет автоматически перезапущено через %d секунды.</item>
+        <item quantity="many">Для завершения обновления устройство будет автоматически перезапущено через %d секунд.</item>
+        <item quantity="other">Для завершения обновления устройство будет автоматически перезапущено через %d секунды.</item>
+    </plurals>
+    <plurals name="PLURAL_UPDATE_COUNT_DOWN_PHONE_AB">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Для завершения обновления телефон будет автоматически перезапущен через %d секунду.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Для завершения обновления телефон будет автоматически перезапущен через %d секунды.</item>
+        <item quantity="many">Для завершения обновления телефон будет автоматически перезапущен через %d секунд.</item>
+        <item quantity="other">Для завершения обновления телефон будет автоматически перезапущен через %d секунды.</item>
+    </plurals>
+    <plurals name="PLURAL_UPDATE_COUNT_DOWN_TABLET_AB">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Для завершения обновления планшет будет автоматически перезапущен через %d секунду.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Для завершения обновления планшет будет автоматически перезапущен через %d секунды.</item>
+        <item quantity="many">Для завершения обновления планшет будет автоматически перезапущен через %d секунд.</item>
+        <item quantity="other">Для завершения обновления планшет будет автоматически перезапущен через %d секунды.</item>
+    </plurals>
+</resources>

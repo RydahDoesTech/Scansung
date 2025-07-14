@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="PLURAL_FOTA_AUTO_INSTALL_DEVICE">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Жаңыртууну орнотуу үчүн түзмөгүңүз %d секундадан кийин өчүрүлүп күйгүзүлөт.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Жаңыртууну орнотуу үчүн түзмөгүңүз %d секундадан кийин өчүрүлүп күйгүзүлөт.</item>
+    </plurals>
+    <plurals name="PLURAL_FOTA_AUTO_INSTALL_PHONE">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Жаңыртууну орнотуп баштоо үчүн, телефонуңуз %d секундадан кийин кайра күйгүзүлөт.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Жаңыртууну орнотуп баштоо үчүн, телефонуңуз %d секундадан кийин кайра күйгүзүлөт.</item>
+    </plurals>
+    <plurals name="PLURAL_FOTA_AUTO_INSTALL_TABLET">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Жаңыртууну орнотуп баштоо үчүн, планшетиңиз %d секундадан кийин кайра күйгүзүлөт.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Жаңыртууну орнотуп баштоо үчүн, планшетиңиз %d секундадан кийин кайра күйгүзүлөт.</item>
+    </plurals>
+    <plurals name="PLURAL_LIMITED_SCHEDULE">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Орнотуу үчүн убакытты койгондон кийин, аны %d жолу гана өзгөртө аласыз.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Орнотуу үчүн убакытты койгондон кийин, аны %d жолу гана өзгөртө аласыз.</item>
+    </plurals>
+    <plurals name="PLURAL_NOTIFICATION_REMIND_ME_IN_HOURS">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ст. кийин эскерт.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ст. кийин эскерт.</item>
+    </plurals>
+    <plurals name="PLURAL_UPDATE_COUNT_DOWN_DEVICE_AB">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Жаңыртууну аяктоо үчүн түзмөгүңүз %d секундадан кийин автоматтык түрдө өчүп күйөт.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Жаңыртууну аяктоо үчүн түзмөгүңүз %d секундадан кийин автоматтык түрдө өчүп күйөт.</item>
+    </plurals>
+    <plurals name="PLURAL_UPDATE_COUNT_DOWN_PHONE_AB">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Жаңыртууну аяктоо үчүн телефонуңуз %d секундадан кийин автоматтык түрдө өчүп күйөт.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Жаңыртууну аяктоо үчүн телефонуңуз %d секундадан кийин автоматтык түрдө өчүп күйөт.</item>
+    </plurals>
+    <plurals name="PLURAL_UPDATE_COUNT_DOWN_TABLET_AB">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Жаңыртууну аяктоо үчүн планшетиңиз %d секундадан кийин автоматтык түрдө өчүп күйөт.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Жаңыртууну аяктоо үчүн планшетиңиз %d секундадан кийин автоматтык түрдө өчүп күйөт.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="auth_type">
+        <item>Basic</item>
+        <item>MD5</item>
+        <item>HMAC</item>
+    </array>
+    <array name="featureArray">
+        <item>COMMON_OPERATOR</item>
+        <item>CTC_OPERATOR</item>
+        <item>DCM_OPERATOR</item>
+        <item>KDI_OPERATOR</item>
+        <item>KT_OPERATOR</item>
+        <item>LGT_OPERATOR</item>
+        <item>SKT_OPERATOR</item>
+        <item>SPR_OPERATOR</item>
+        <item>TMB_OPERATOR</item>
+        <item>TMK_OPERATOR</item>
+        <item>USC_OPERATOR</item>
+    </array>
+    <array name="forceinstall">
+        <item>FORCE INSTALL SELECT</item>
+        <item>0</item>
+        <item>1</item>
+    </array>
+    <array name="priority">
+        <item>FORCE PRIORITY SELECT</item>
+        <item>0</item>
+        <item>1</item>
+    </array>
+    <array name="wifionly_by_device">
+        <item>WIFIONLY_BY_DEVICE SELECT</item>
+        <item>OFF</item>
+        <item>ON</item>
+    </array>
+</resources>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="PLURAL_FOTA_AUTO_INSTALL_DEVICE">
+        <item quantity="zero">Your device will restart in %d seconds to begin installing the update.</item>
+        <item quantity="one">Your device will restart in %d second to begin installing the update.</item>
+        <item quantity="two">Your device will restart in %d seconds to begin installing the update.</item>
+        <item quantity="few">Your device will restart in %d seconds to begin installing the update.</item>
+        <item quantity="many">Your device will restart in %d seconds to begin installing the update.</item>
+        <item quantity="other">Your device will restart in %d seconds to begin installing the update.</item>
+    </plurals>
+    <plurals name="PLURAL_FOTA_AUTO_INSTALL_PHONE">
+        <item quantity="zero">Your phone will restart in %d seconds to begin installing the update.</item>
+        <item quantity="one">Your phone will restart in %d second to begin installing the update.</item>
+        <item quantity="two">Your phone will restart in %d seconds to begin installing the update.</item>
+        <item quantity="few">Your phone will restart in %d seconds to begin installing the update.</item>
+        <item quantity="many">Your phone will restart in %d seconds to begin installing the update.</item>
+        <item quantity="other">Your phone will restart in %d seconds to begin installing the update.</item>
+    </plurals>
+    <plurals name="PLURAL_FOTA_AUTO_INSTALL_TABLET">
+        <item quantity="zero">Your tablet will restart in %d seconds to begin installing the update.</item>
+        <item quantity="one">Your tablet will restart in %d second to begin installing the update.</item>
+        <item quantity="two">Your tablet will restart in %d seconds to begin installing the update.</item>
+        <item quantity="few">Your tablet will restart in %d seconds to begin installing the update.</item>
+        <item quantity="many">Your tablet will restart in %d seconds to begin installing the update.</item>
+        <item quantity="other">Your tablet will restart in %d seconds to begin installing the update.</item>
+    </plurals>
+    <plurals name="PLURAL_NOTIFICATION_REMIND_ME_IN_HOURS">
+        <item quantity="zero">Remind me in %d hrs</item>
+        <item quantity="one">Remind me in %d hr</item>
+        <item quantity="two">Remind me in %d hrs</item>
+        <item quantity="few">Remind me in %d hrs</item>
+        <item quantity="many">Remind me in %d hrs</item>
+        <item quantity="other">Remind me in %d hrs</item>
+    </plurals>
+    <plurals name="PLURAL_UPDATE_COUNT_DOWN_DEVICE_AB">
+        <item quantity="zero">Your device will automatically restart in %d seconds to complete the update.</item>
+        <item quantity="one">Your device will automatically restart in %d second to complete the update.</item>
+        <item quantity="two">Your device will automatically restart in %d seconds to complete the update.</item>
+        <item quantity="few">Your device will automatically restart in %d seconds to complete the update.</item>
+        <item quantity="many">Your device will automatically restart in %d seconds to complete the update.</item>
+        <item quantity="other">Your device will automatically restart in %d seconds to complete the update.</item>
+    </plurals>
+    <plurals name="PLURAL_UPDATE_COUNT_DOWN_PHONE_AB">
+        <item quantity="zero">Your phone will automatically restart in %d seconds to complete the update.</item>
+        <item quantity="one">Your phone will automatically restart in %d second to complete the update.</item>
+        <item quantity="two">Your phone will automatically restart in %d seconds to complete the update.</item>
+        <item quantity="few">Your phone will automatically restart in %d seconds to complete the update.</item>
+        <item quantity="many">Your phone will automatically restart in %d seconds to complete the update.</item>
+        <item quantity="other">Your phone will automatically restart in %d seconds to complete the update.</item>
+    </plurals>
+    <plurals name="PLURAL_UPDATE_COUNT_DOWN_TABLET_AB">
+        <item quantity="zero">Your tablet will automatically restart in %d seconds to complete the update.</item>
+        <item quantity="one">Your tablet will automatically restart in %d second to complete the update.</item>
+        <item quantity="two">Your tablet will automatically restart in %d seconds to complete the update.</item>
+        <item quantity="few">Your tablet will automatically restart in %d seconds to complete the update.</item>
+        <item quantity="many">Your tablet will automatically restart in %d seconds to complete the update.</item>
+        <item quantity="other">Your tablet will automatically restart in %d seconds to complete the update.</item>
+    </plurals>
+</resources>

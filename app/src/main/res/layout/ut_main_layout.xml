@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.idm.fotaagent.enabler.ui.common.ColoredPaddingView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/included_window_inset"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        android:background="@color/content_background_color"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <androidx.appcompat.widget.Toolbar
+            android:theme="@style/Theme.AppCompat.DayNight"
+            android:layout_gravity="bottom"
+            android:id="@+id/tool_bar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            app:layout_collapseMode="pin"/>
+        <androidx.fragment.app.FragmentContainerView
+            android:name="com.idm.fotaagent.enabler.ui.utagent.IDMUTAgentFragment"
+            android:id="@+id/fragment_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+</com.idm.fotaagent.enabler.ui.common.ColoredPaddingView>
